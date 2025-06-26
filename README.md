@@ -1,11 +1,11 @@
 Dashboard
-📌 **Project Title:**
+ **Project Title:**
 **NeuroTube Nexus – Futuristic Content Performance Dashboard (2025)**
 
-🧠 **Overview:**
+ **Overview:**
 This Power BI dashboard analyzes and visualizes performance data for next-gen YouTube channels managed by NeuroTube Nexus, a media-tech company focused on innovative content. The goal is to uncover actionable insights related to content creator success, technological innovation, and audience engagement trends.
 
-🎯** Objectives:**
+## Objectives
 Identify top-performing creators by engagement and content value
 
 Evaluate the impact of AI, Metaverse, and Neural Interface technologies on subscriber growth
@@ -16,7 +16,7 @@ Explore patterns in content technologies like quantum computing and holography
 
 Recommend strategies to balance innovation with audience retention
 
-📊** Key Dashboard Pages:**
+## Key Dashboard Pages
 Overview
 
 KPIs (average subscribers, engagement score, content value)
@@ -45,13 +45,13 @@ Executive Summary
 
 Key insights and recommendations based on analysis
 
-🛠** Tools Used:**
+## Tools Used
 Power BI (for visualization and dashboard creation)
 
 Excel (for data preprocessing)
 
 Power Query (for data transformation and cleaning)
 
-✅ **Outcome:**
+## Outcome
 The dashboard enables NeuroTube Nexus to make data-driven decisions about content creation, tech adoption, and strategic collaborations with creators. It highlights which technologies enhance viewer engagement and where to focus future content strategies.
 
