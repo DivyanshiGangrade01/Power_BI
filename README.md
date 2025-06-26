@@ -40,3 +40,5 @@ The dataset includes:
 
 
 
+### Final Power BI Dashboard Preview
+![Amazon Sales Dashboard](dashboard_overview.jpg)
