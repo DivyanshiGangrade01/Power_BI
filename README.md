@@ -1,4 +1,4 @@
-**Amazon Sales Analysis — Power BI Project **
+### Amazon Sales Analysis — Power BI Project
 
 This project analyzes Amazon's sales data using Power BI to uncover trends in revenue, profit, and product performance across time, countries, and sales channels.
 
